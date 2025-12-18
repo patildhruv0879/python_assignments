@@ -1,0 +1,3 @@
+- Initializes an accumulator add to 0.  
+- Iterates i from 1 to 50 and, on each iteration, adds i to add.  
+- After the loop, prints the accumulated sum, which is the arithmetic series sum from 1 to 50.
