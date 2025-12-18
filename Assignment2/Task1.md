@@ -1,0 +1,2 @@
+- Reads a number, converts it to int, and stores it in num.  
+- Uses num % 2 to check parity; if remainder is 0, prints the “even” message, otherwise prints the “odd” message.
