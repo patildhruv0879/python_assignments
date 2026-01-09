@@ -1,0 +1,3 @@
+- Imports math module for performing various math operations.
+- Reads user input as int into num.  
+- Computes and prints square root (sqrt), natural log (log), sine (sin), and cosine (cos) of num using f-strings for output.
