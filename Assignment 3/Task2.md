@@ -1,0 +1,3 @@
+- Defines a function factorial(num): initializes fact=1, multiplies fact *= num in a while num > 0 loop (decrementing num each iteration), then returns fact.  
+- Reads input as int into num.  
+- Calls factorial(num) and prints the result via f-string.
