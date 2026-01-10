@@ -1,0 +1,3 @@
+- Opens "output.txt" in write mode ("w"), overwrites content, prompts for input, writes it, closes file, confirms.  
+- Reopens same file in append mode ("a"), prompts for more input, appends it, closes, confirms.  
+- Opens in read mode ("r"), iterates over lines (stripping whitespace), prints each, counts lines, closes, prints total.
