@@ -1,0 +1,3 @@
+- Uses try-except block to safely open "sample.txt" in read mode.  
+- If successful, reads and prints each line (stripped), prints success, closes file.  
+- Catches FileNotFoundError specifically (prints custom message) or any other Exception (prints error details).
